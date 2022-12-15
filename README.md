@@ -11,3 +11,4 @@ Winjactf 2022
 Microsoft Imagine Cup Junior 2022  
 YCEP 2022  
 SJPO 2022
+A*STAR-VJC Science Fair 2022
