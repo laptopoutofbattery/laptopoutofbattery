@@ -12,4 +12,5 @@ Microsoft Imagine Cup Junior 2022
 YCEP 2022  
 SJPO 2022  
 A*STAR-VJC Science Fair 2022  
-Sentinel Challenge 2022 2nd place
+Sentinel Challenge 2022 2nd place  
+STACK the Flags 2022
