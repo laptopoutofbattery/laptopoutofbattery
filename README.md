@@ -15,9 +15,12 @@ A*STAR-VJC Science Fair 2022
 Sentinel Challenge 2022 2nd place  
 STACK the Flags 2022  
 
+
+<br>
 Some projects:
 -
 [Yousaybot](https://github.com/laptopoutofbattery/Yousaybot) - a discord bot that plays the song "You say run" in voice channels  
+
 
 <br>
 hopefully I come up with more useful ideas...
