@@ -13,4 +13,8 @@ YCEP 2022
 SJPO 2022  
 A*STAR-VJC Science Fair 2022  
 Sentinel Challenge 2022 2nd place  
-STACK the Flags 2022
+STACK the Flags 2022  
+
+Some projects:
+-
+Yousaybot: a discord bot that plays the song "You say run" in voice channels  
