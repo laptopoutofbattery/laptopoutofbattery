@@ -17,4 +17,4 @@ STACK the Flags 2022
 
 Some projects:
 -
-Yousaybot: a discord bot that plays the song "You say run" in voice channels  
+[Yousaybot](https://github.com/laptopoutofbattery/Yousaybot): a discord bot that plays the song "You say run" in voice channels  
