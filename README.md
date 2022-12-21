@@ -21,6 +21,14 @@ STACK the Flags 2022
 Some projects:
 -
 [Yousaybot](https://github.com/laptopoutofbattery/Yousaybot) - a discord bot that plays the song "You say run" in voice channels  
+nameinprogress - a Pokemon related discord bot (currently in progress, have yet to create a repository)  
+
+<br>
+
+Intended projects for the future (so i don't forget):
+-
+App dev (for a school related project)  
+More Python and C++ dev (GUIs or others, hopefully not another niche discord bot)  
 
 
 <br>
