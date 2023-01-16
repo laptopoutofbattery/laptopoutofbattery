@@ -14,6 +14,8 @@ SJPO 2022
 A*STAR-VJC Science Fair 2022  
 Sentinel Challenge 2022 2nd place  
 STACK the Flags 2022  
+Sieberrsec CTF 4.0 (secondary categroy 4th place)  
+idekCTF 2022  
 
 
 <br>
