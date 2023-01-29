@@ -24,6 +24,7 @@ Some projects:
 -
 [Yousaybot](https://github.com/laptopoutofbattery/Yousaybot) - a discord bot that plays the song "You say run" in voice channels  
 nameinprogress - a Pokemon related discord bot (currently in progress, have yet to create a repository)  
+[Trailblazer](https://github.com/laptopoutofbattery/Trailblazer) - an unamed course website made for a school project, with basic functionalities and styles (nothing more)  
 
 <br>
 
