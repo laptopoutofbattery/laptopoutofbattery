@@ -16,7 +16,8 @@ Sentinel Challenge 2022 2nd place
 STACK the Flags 2022  
 Sieberrsec CTF 4.0 (secondary categroy 4th place)  
 idekCTF 2022  
-SMU Whitehacks 2023 1st place
+SMU Whitehacks 2023 1st place  
+National Olympiad in Informatics final round (NOI) silver 2023  
 
 
 <br>
