@@ -17,16 +17,12 @@ STACK the Flags 2022
 Sieberrsec CTF 4.0 (secondary categroy 4th place)  
 idekCTF 2022  
 SMU Whitehacks 2023 1st place  
-National Olympiad in Informatics final round (NOI) silver 2023  
+National Olympiad in Informatics final round (NOI) 2023 Silver  
+SMO 2023 Bronze  
+International Chemistry Quiz 2023 Distinction  
+Lag and Crash CTF 2024 Closed Category 3rd  
+National Olympiad in Informatics final round (NOI) 2024 Silver  
 
-
-<br>
-
-Some projects:
--
-[Yousaybot](https://github.com/laptopoutofbattery/Yousaybot) - a discord bot that plays the song "You say run" in voice channels  
-nameinprogress - a Pokemon related discord bot (currently in progress, have yet to create a repository)  
-[Trailblazer](https://github.com/laptopoutofbattery/Trailblazer) - an unamed course website made for a school project, with basic functionalities and styles (nothing more)  
 
 <br>
 
