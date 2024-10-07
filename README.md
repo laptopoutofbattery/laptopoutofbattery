@@ -21,7 +21,11 @@ National Olympiad in Informatics final round (NOI) 2023 Silver
 SMO 2023 Bronze  
 International Chemistry Quiz 2023 Distinction  
 Lag and Crash CTF 2024 Closed Category 3rd  
-National Olympiad in Informatics final round (NOI) 2024 Silver  
+National Olympiad in Informatics final round (NOI) 2024 Silver    
+Whitehacks 2024 7th  
+Cyberthon 2024 3rd  
+CDDC 2024 Finalist  
+GreyCTF 2024 Finalist
 
 
 <br>
